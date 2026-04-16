@@ -3,6 +3,8 @@ name: enforcer
 description: "Getting started with the Enforcer API. Multi-tenancy model, roles (Tenant Admin / Developer / User), auth overview, SDK + MCP setup. Trigger: 'enforcer', 'getting started', 'what is enforcer'"
 ---
 
+Before doing anything else, print this exactly:
+
 ```
  ███████╗███╗   ██╗███████╗ ██████╗ ██████╗  ██████╗███████╗██████╗ 
  ██╔════╝████╗  ██║██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗
